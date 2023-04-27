@@ -5,7 +5,7 @@ import UserController from "./controllers/UserController.js";
 import AdminController from "./controllers/AdminController.js";
 
 
-const CONNECTION_STRING = 'mongodb+srv://kanishkasoni1117:mythics@cluster0.suv8spm.mongodb.net/forms?retryWrites=true&w=majority'
+const CONNECTION_STRING = 'mongodb+srv://rakshitsoni:mythics@cluster0.suv8spm.mongodb.net/forms?retryWrites=true&w=majority'
 mongoose.connect(CONNECTION_STRING);
 
 
